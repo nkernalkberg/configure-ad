@@ -1,5 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<p align="center"> <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>Active Directory Deployment in the Cloud (Azure)</h1>
@@ -36,6 +35,18 @@ This tutorial demonstrates how to deploy and configure Active Directory in a lab
 ![image](https://github.com/user-attachments/assets/cb441be6-bb8c-4237-a6ef-e9dafac23bec)
 
 ![image](https://github.com/user-attachments/assets/0f8d6f87-45fc-449d-9969-20a3c7098831)
+
+![image](https://github.com/user-attachments/assets/76435c5f-227f-4084-b5b6-dc78582d3732)
+
+![image](https://github.com/user-attachments/assets/e8158bdb-c513-48e0-b055-043e93301a76)
+
+![image](https://github.com/user-attachments/assets/2eb23043-32ee-4b47-a976-5f4cf7c7c359)
+
+![image](https://github.com/user-attachments/assets/6cecc3db-7882-45d6-a59d-10cfb7213e34)
+
+![image](https://github.com/user-attachments/assets/2125b82d-759c-41a4-a397-6343978dedd6)
+
+
 
 
 <p>
