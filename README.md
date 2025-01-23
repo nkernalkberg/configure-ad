@@ -25,6 +25,19 @@ This tutorial demonstrates how to deploy and configure Active Directory in a lab
 
 <h2>Deployment and Configuration Steps</h2>
 
+![image](https://github.com/user-attachments/assets/7e1573f1-72fb-4990-b665-20066b0bceee)
+
+![image](https://github.com/user-attachments/assets/13963463-683f-40e3-9661-67717092f988)
+
+![image](https://github.com/user-attachments/assets/be042d69-57c5-4aeb-9b84-fd04c54848c6)
+
+![image](https://github.com/user-attachments/assets/38ab43ce-1c49-43e4-90af-1a6dfd593fe5)
+
+![image](https://github.com/user-attachments/assets/7cec5b0f-11c1-4d88-8819-39797aff8b1e)
+
+![image](https://github.com/user-attachments/assets/0f8d6f87-45fc-449d-9969-20a3c7098831)
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
