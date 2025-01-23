@@ -33,7 +33,7 @@ This tutorial demonstrates how to deploy and configure Active Directory in a lab
 
 ![image](https://github.com/user-attachments/assets/38ab43ce-1c49-43e4-90af-1a6dfd593fe5)
 
-![image](https://github.com/user-attachments/assets/7cec5b0f-11c1-4d88-8819-39797aff8b1e)
+![image](https://github.com/user-attachments/assets/cb441be6-bb8c-4237-a6ef-e9dafac23bec)
 
 ![image](https://github.com/user-attachments/assets/0f8d6f87-45fc-449d-9969-20a3c7098831)
 
