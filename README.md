@@ -52,9 +52,44 @@ This tutorial demonstrates how to deploy and configure Active Directory in a lab
 
 ![image](https://github.com/user-attachments/assets/2125b82d-759c-41a4-a397-6343978dedd6)
 
+![image](https://github.com/user-attachments/assets/fe61b4dc-502f-44fc-ba38-c5975dfb2c17)
+
+
 <h3>Client-1 (User PC)</h3>
 
+![image](https://github.com/user-attachments/assets/1d15d89b-f4cd-4151-a927-c3f8d18183db)
 
+![image](https://github.com/user-attachments/assets/1c168cb4-b128-4c22-9094-15ceb28100a5)
+
+![image](https://github.com/user-attachments/assets/601f0a42-b4f1-4199-9f73-3c0bf54e5d52)
+
+![image](https://github.com/user-attachments/assets/2d72a840-4a7c-4a8c-afb7-9116dbabe1b6)
+
+![image](https://github.com/user-attachments/assets/89285296-c0bb-4c02-be04-924c5b728032)
+
+<h3>Setting DC-1's Network Settings</h3>
+
+![image](https://github.com/user-attachments/assets/ec9d0937-38e7-4e52-bc54-ffa08c51c2cd)
+
+![image](https://github.com/user-attachments/assets/9cd08615-e591-4fbb-bd30-b8609dd0d4fd)
+
+![image](https://github.com/user-attachments/assets/4a8e9681-06eb-4c5a-805c-f076088424c4)
+
+![image](https://github.com/user-attachments/assets/1f81844b-eebc-4a27-a321-7d14f4012fb2)
+
+![image](https://github.com/user-attachments/assets/23c44884-5ea0-4268-b05f-a4fccd2523b1)
+
+![image](https://github.com/user-attachments/assets/e13ef96b-524d-448d-ab82-98df315a3485)
+
+![image](https://github.com/user-attachments/assets/02057528-a82c-4992-98da-4c3ce1e0e50b)
+
+![image](https://github.com/user-attachments/assets/4748b727-4a03-4216-8112-d0d313b0961d)
+
+![image](https://github.com/user-attachments/assets/b8ab2e1b-c794-4f70-bab6-6ff598ef1d76)
+
+![image](https://github.com/user-attachments/assets/db91ecc6-6c8b-498d-944b-0610dffd8c8c)
+
+![image](https://github.com/user-attachments/assets/55ef0146-7519-498a-abb8-7b6c69225189)
 
 
 <p>
