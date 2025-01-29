@@ -26,31 +26,37 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 <h3>Create a Resource Group</h3>
 
-<pre>
+
 Within the Azure Portal select Resource Groups and click Create.
-</pre>
+
 
 ![image](https://github.com/user-attachments/assets/7e1573f1-72fb-4990-b665-20066b0bceee)
 
-<pre>
+
 Make sure your Azure subscription is selected, then input a Resource Group Name and pick a Region.
-Click Review & Create.
-</pre>
+Click Review + Create.
+
 
 ![image](https://github.com/user-attachments/assets/13963463-683f-40e3-9661-67717092f988)
 
-<pre>
+
 Create the Resource Group.
-</pre>
+
 
 ![image](https://github.com/user-attachments/assets/be042d69-57c5-4aeb-9b84-fd04c54848c6)
 
 <br />
 <h3>Create a Virtual Network</h3>
 
+Navigate to Virtual Networks in Azure, and click Create Virtual Network.
+
 ![image](https://github.com/user-attachments/assets/38ab43ce-1c49-43e4-90af-1a6dfd593fe5)
 
+Make sure your Azure subscription is selected. Select the Resource Group you just made, name the Virtual Network, select the same region as your Resource Group, and then click Review + Create.
+
 ![image](https://github.com/user-attachments/assets/cb441be6-bb8c-4237-a6ef-e9dafac23bec)
+
+Click Create.
 
 ![image](https://github.com/user-attachments/assets/0f8d6f87-45fc-449d-9969-20a3c7098831)
 
