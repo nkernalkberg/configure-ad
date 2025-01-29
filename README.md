@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Active Directory Deployment in the Cloud (Azure)</h1>
+<h1>Active Directory Deployment in the Cloud (Azure) Part 1</h1>
 
 <h1>Overview</h1>
 
-This tutorial demonstrates how to deploy and configure Active Directory in a lab environment using Azure Virtual Machines, focusing on setting up a domain controller and a single client PC as indicated in Figure 1.1 below.<br />
+This is part one of a series of tutorials demonstrating the deployment of Active Directory in a cloud setting. In this tutorial we will be covering how to configure your Domain Controller (DC-1) and a single client machine (Client-1). Figure 1.1 shows the machine layout we will be using in this series.<br />
 
 ![image](https://github.com/user-attachments/assets/7e9b3436-ff3b-4947-a250-6dcf06df7bef)
 <p align="center">Figure 1.1</p>
