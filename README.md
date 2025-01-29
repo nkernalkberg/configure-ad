@@ -91,6 +91,36 @@ This tutorial demonstrates how to deploy and configure Active Directory in a lab
 
 ![image](https://github.com/user-attachments/assets/55ef0146-7519-498a-abb8-7b6c69225189)
 
+<h3>Setting Client-1 DNS Settings</h3>
+
+![image](https://github.com/user-attachments/assets/225d6db4-3c22-4f57-bef8-5fe90a8db974)
+
+![image](https://github.com/user-attachments/assets/3ee57d6d-444a-40ff-9095-01959b3c10a5)
+
+![image](https://github.com/user-attachments/assets/13e4c908-bdfc-44e0-956c-2f09b75a965c)
+
+![image](https://github.com/user-attachments/assets/bd7e5396-e9d7-4616-ac19-1445039bcf27)
+
+<h3>From Client-1 Ping DC-1's private IP address</h3>
+
+![image](https://github.com/user-attachments/assets/f81de116-f54f-4ed8-89e7-458e689d2ee7)
+
+![image](https://github.com/user-attachments/assets/e9ee0de9-048b-4e1f-b05e-76a664eccee1)
+
+![image](https://github.com/user-attachments/assets/919dc0bd-a30d-466b-996f-f04e1e34e8f3)
+
+![image](https://github.com/user-attachments/assets/1c89c9fa-e2ec-4720-b84f-b5d406fbdcc1)
+
+![image](https://github.com/user-attachments/assets/a96fa914-ba27-413f-9a31-10c360aaa448)
+
+![image](https://github.com/user-attachments/assets/3dc91209-07a4-497c-a162-d6b8aba4f126)
+
+![image](https://github.com/user-attachments/assets/83ca570a-2c6d-4dd6-ad4b-fe1544dab204)
+
+![image](https://github.com/user-attachments/assets/98b71a37-3d47-4a06-9b92-74910d2af1dc)
+
+![image](https://github.com/user-attachments/assets/01b1423e-9f7d-45fe-b722-13a7d4f9a703)
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
