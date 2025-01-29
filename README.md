@@ -63,15 +63,27 @@ Click Create.
 <br />
 <h3>Deploy the Domain Controller (DC-1)</h3>
 
+Within the Azure Portal, navigate to Virtual Machines and click Create > Azure Virtual Machine.
+
 ![image](https://github.com/user-attachments/assets/76435c5f-227f-4084-b5b6-dc78582d3732)
+
+Set the Resource Group to the same one as before, name the virtual machine, set the Region, set Availability Options to No Infrastructure Redundancy Required, and then for the Image select Weindows Server 2022 Datacenter: Azure Edition.
 
 ![image](https://github.com/user-attachments/assets/e8158bdb-c513-48e0-b055-043e93301a76)
 
+Make sure to select a Size that has a minimum of 2 VCPUs and 8gb of memory. Set a username and password.
+
 ![image](https://github.com/user-attachments/assets/2eb23043-32ee-4b47-a976-5f4cf7c7c359)
+
+Tick the licensing boxes and then click next until you get to Networking.
 
 ![image](https://github.com/user-attachments/assets/6cecc3db-7882-45d6-a59d-10cfb7213e34)
 
+Under Networking > Virtual Network, select the virtual network you previously configured. Then click Review + Create.
+
 ![image](https://github.com/user-attachments/assets/2125b82d-759c-41a4-a397-6343978dedd6)
+
+Click Create.
 
 ![image](https://github.com/user-attachments/assets/fe61b4dc-502f-44fc-ba38-c5975dfb2c17)
 
