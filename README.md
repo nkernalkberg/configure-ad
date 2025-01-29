@@ -24,7 +24,7 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 <h2>Deployment and Configuration Steps</h2>
 
-<h3>Resource Group</h3>
+<h3>Create a Recourse Group</h3>
 
 ![image](https://github.com/user-attachments/assets/7e1573f1-72fb-4990-b665-20066b0bceee)
 
@@ -32,7 +32,8 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 ![image](https://github.com/user-attachments/assets/be042d69-57c5-4aeb-9b84-fd04c54848c6)
 
-<h3>Virtual Network</h3>
+<br />
+<h3>Create a Virtual Network</h3>
 
 ![image](https://github.com/user-attachments/assets/38ab43ce-1c49-43e4-90af-1a6dfd593fe5)
 
@@ -40,7 +41,8 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 ![image](https://github.com/user-attachments/assets/0f8d6f87-45fc-449d-9969-20a3c7098831)
 
-<h3>DC-1 (Domain Controller)</h3>
+<br />
+<h3>Deploy the Domain Controller (DC-1)</h3>
 
 ![image](https://github.com/user-attachments/assets/76435c5f-227f-4084-b5b6-dc78582d3732)
 
@@ -54,8 +56,8 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 ![image](https://github.com/user-attachments/assets/fe61b4dc-502f-44fc-ba38-c5975dfb2c17)
 
-
-<h3>Client-1 (User PC)</h3>
+<br />
+<h3>Deploy the Client Machine (Client-1)</h3>
 
 ![image](https://github.com/user-attachments/assets/1d15d89b-f4cd-4151-a927-c3f8d18183db)
 
@@ -67,7 +69,8 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 ![image](https://github.com/user-attachments/assets/89285296-c0bb-4c02-be04-924c5b728032)
 
-<h3>Setting DC-1's Network Settings</h3>
+<br />
+<h3>Configure DC-1's Network Settings</h3>
 
 ![image](https://github.com/user-attachments/assets/ec9d0937-38e7-4e52-bc54-ffa08c51c2cd)
 
@@ -91,7 +94,8 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 ![image](https://github.com/user-attachments/assets/55ef0146-7519-498a-abb8-7b6c69225189)
 
-<h3>Setting Client-1 DNS Settings</h3>
+<br />
+<h3>Configure Client-1's DNS Settings</h3>
 
 ![image](https://github.com/user-attachments/assets/225d6db4-3c22-4f57-bef8-5fe90a8db974)
 
@@ -101,7 +105,9 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 ![image](https://github.com/user-attachments/assets/bd7e5396-e9d7-4616-ac19-1445039bcf27)
 
-<h3>From Client-1 Ping DC-1's private IP address</h3>
+<br />
+<h3>Verify DNS Connectivity Between DC-1 and Client-1 (Ping)</h3>
+
 
 ![image](https://github.com/user-attachments/assets/f81de116-f54f-4ed8-89e7-458e689d2ee7)
 
@@ -121,6 +127,14 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 ![image](https://github.com/user-attachments/assets/01b1423e-9f7d-45fe-b722-13a7d4f9a703)
 
+<h3>Conclusion</h3>
+<pre>
+At this stage, we have successfully:
+  1. Created both a Resource Group and a Virtual Network.
+  2. Deployed an configured DC-1 as the Domain Controller.
+  3. Deployed Client-1 and updated its DNS settings.
+  4. Verified connectivity between the two machines.
+</pre>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
