@@ -24,7 +24,7 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 <h2>Deployment and Configuration Steps</h2>
 
-<h3>Create a Recourse Group</h3>
+<h3>Create a Resource Group</h3>
 
 <pre>
 Within the Azure Portal select Resource Groups and click Create.
