@@ -26,9 +26,22 @@ This is part one of a series of tutorials demonstrating the deployment of Active
 
 <h3>Create a Recourse Group</h3>
 
+<pre>
+Within the Azure Portal select Resource Groups and click Create.
+</pre>
+
 ![image](https://github.com/user-attachments/assets/7e1573f1-72fb-4990-b665-20066b0bceee)
 
+<pre>
+Make sure your Azure subscription is selected, then input a Resource Group Name and pick a Region.
+Click Review & Create.
+</pre>
+
 ![image](https://github.com/user-attachments/assets/13963463-683f-40e3-9661-67717092f988)
+
+<pre>
+Create the Resource Group.
+</pre>
 
 ![image](https://github.com/user-attachments/assets/be042d69-57c5-4aeb-9b84-fd04c54848c6)
 
