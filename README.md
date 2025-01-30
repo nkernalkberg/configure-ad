@@ -90,13 +90,23 @@ Click Create.
 <br />
 <h3>Deploy the Client Machine (Client-1)</h3>
 
+Within the Azure Portal, navigate to Virtual Machines and click Create > Azure Virtual Machine.
+
 ![image](https://github.com/user-attachments/assets/1d15d89b-f4cd-4151-a927-c3f8d18183db)
+
+Set the Resource Group to the same one as before, name the virtual machine, set the Region, set Availability Options to No Infrastructure Redundancy Required, and then for the Image select Weindows 10 Pro, version 22H2. Again, it is ideal to set your Size to no less than 2 VCPUs and 8gb of memory.
 
 ![image](https://github.com/user-attachments/assets/1c168cb4-b128-4c22-9094-15ceb28100a5)
 
+Set a username and password, confirm the licensing, and then hit next until you get to Networking.
+
 ![image](https://github.com/user-attachments/assets/601f0a42-b4f1-4199-9f73-3c0bf54e5d52)
 
+Under Networking, select the same Virtual Network you set up earlier. Click Review + Create.
+
 ![image](https://github.com/user-attachments/assets/2d72a840-4a7c-4a8c-afb7-9116dbabe1b6)
+
+Click Create to deploy the virtual machine.
 
 ![image](https://github.com/user-attachments/assets/89285296-c0bb-4c02-be04-924c5b728032)
 
