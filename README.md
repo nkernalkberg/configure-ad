@@ -113,25 +113,47 @@ Click Create to deploy the virtual machine.
 <br />
 <h3>Configure DC-1's Network Settings</h3>
 
+Within the Azure portal navigate back to the Virtual Machines menu. Then select DC-1 by clicking on the name.
+
 ![image](https://github.com/user-attachments/assets/ec9d0937-38e7-4e52-bc54-ffa08c51c2cd)
+
+Select the Network Interface / IP Configuration menu. Then go to Network Settings in the panel to the left.
 
 ![image](https://github.com/user-attachments/assets/9cd08615-e591-4fbb-bd30-b8609dd0d4fd)
 
+Select *ipconfig1*. Under "Private IP address settings" select Static and then set the Private IP Address to 10.0.04.
+
 ![image](https://github.com/user-attachments/assets/4a8e9681-06eb-4c5a-805c-f076088424c4)
+
+Make sure DC-1 is started and running. Take note of its Public IP address and/or copy it to your clipboard. 
 
 ![image](https://github.com/user-attachments/assets/1f81844b-eebc-4a27-a321-7d14f4012fb2)
 
+Within Windows press the Windows + R key combonation to open Run and then type *mstsc.exe*. Press OK. This starts Remote Desktop Connection. We will use this to remote into our virtual machines.
+
 ![image](https://github.com/user-attachments/assets/23c44884-5ea0-4268-b05f-a4fccd2523b1)
+
+Paste the Public IP address into the text bar for "Computer". Click Show Details.
 
 ![image](https://github.com/user-attachments/assets/e13ef96b-524d-448d-ab82-98df315a3485)
 
+Now input your username in the "Username" text bar. Press Connect.
+
 ![image](https://github.com/user-attachments/assets/02057528-a82c-4992-98da-4c3ce1e0e50b)
+
+Type your password in the "Password" text bar. Press OK.
 
 ![image](https://github.com/user-attachments/assets/4748b727-4a03-4216-8112-d0d313b0961d)
 
+Read the pop-up. Click Yes once you verify it is your virtual machine.
+
 ![image](https://github.com/user-attachments/assets/b8ab2e1b-c794-4f70-bab6-6ff598ef1d76)
 
+Once you are into the DC-1 desktop use the key combo Windows Key + R to open Run. Type "wf.msc" Press OK.
+
 ![image](https://github.com/user-attachments/assets/db91ecc6-6c8b-498d-944b-0610dffd8c8c)
+
+Select Windows Defender Firewall Properties within the Windows Defender Firewall and Advanced Security window. In the pop-up turn OFF the "Firewall state" in Domain Profile, Private Profile, and Public Profile. Click Apply and then OK.
 
 ![image](https://github.com/user-attachments/assets/55ef0146-7519-498a-abb8-7b6c69225189)
 
